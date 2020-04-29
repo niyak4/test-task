@@ -1,0 +1,27 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "description": "Test task for an interview.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niyak4/test-task.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Yaroslav Zaritsky <keyla.prezent@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niyak4/test-task/issues"
+  },
+  "homepage": "https://github.com/niyak4/test-task#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
